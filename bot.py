@@ -38,9 +38,10 @@ MAX_JOBS_PER_RUN  = 15     # حداکثر آگهی ارسالی در هر اجر
 # ─── کلمات جستجو ──────────────────────────────────────────────────────────────
 SEARCH_QUERIES = [
     "python developer remote",
-    "junior django remote",
-    "junior Python remote",
-    "junior FastAPI remote",
+    "Go developer remote",
+    "django remote",
+    "python remote",
+    "FastAPI remote",
 ]
 
 # ─── کلمات ممنوعه (Blacklist) ──────────────────────────────────────────────────
